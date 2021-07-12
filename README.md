@@ -5,4 +5,4 @@ Introduction to more advanced Python concepts.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/python-bites/introduction-python-advanced/HEAD)
 
-[Download](Classes%2C Descriptors %26 Metaclasses.ipynb)
+[Download](Classes, Descriptors & Metaclasses.ipynb)
