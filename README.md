@@ -1,4 +1,4 @@
-# introduction-python-advanced
+# Introduction to Python: Advanced concepts
 Introduction to more advanced Python concepts.
 
 
