@@ -1,9 +1,9 @@
 # Introduction to Python: Advanced concepts
 Covers advanced aspects of Python:
 
-* Classes
-* Descriptors
-* Metaclasses
+* classes
+* descriptors
+* metaclasses
 
 Ways to get the material:
 
